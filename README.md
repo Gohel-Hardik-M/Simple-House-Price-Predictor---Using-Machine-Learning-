@@ -11,7 +11,7 @@ Simple House Price Predictor - Using Machine Learning
                             -HTML/CSS     -->Used for User Interface Styling and Designing.
                             -Pandas       -->Used to clean & manupilate the dataset and to train the data into model.
   
-
+  
 # View :
 
 ![image](https://github.com/user-attachments/assets/602a06ae-eb09-49c9-acca-cd2ea307aa58)
