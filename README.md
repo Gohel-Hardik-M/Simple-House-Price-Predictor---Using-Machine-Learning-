@@ -10,7 +10,7 @@ Simple House Price Predictor - Using Machine Learning
                             -pickle       -->Ussed To save and Load the machine learning model.
                             -HTML/CSS     -->Used for User Interface Styling and Designing.
                             -Pandas       -->Used to clean & manupilate the dataset and to train the data into model.
-
+  
 
 # View :
 
