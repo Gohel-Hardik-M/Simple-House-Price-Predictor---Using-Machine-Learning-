@@ -2,7 +2,7 @@
 Simple House Price Predictor - Using Machine Learning 
 
   
-# Used Technology : 
+# Used Technology :   
                  
                             -Python        -->Core Programming Language Used.
                             -Flask         -->Used to connect Frontend and Backend Logics.
